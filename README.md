@@ -1,15 +1,15 @@
 # DalopcanSystem
 This project is a file manager system for the company Caloocan Soluciones that is dedicated to sell ortho prosthetic hearing aids and provide atention to their patients. 
 
-#About this project
+# About this project
 This project is part of a university requirement called TCU, which consists of supporting companies through technology. The software solution is made up of 3 parts: database, API and frontend application.
 In this project you can manage the clinical records that the company uses to keep track of its clients/patients. In addition, it has an administrative section that allows you to manage the users of the application. The application has CRUD of operations both at the user and patient level, password reset and the possibility of saving images. This project was created by the hand of my colleague Dylan Castillo, his GitHub is here: https://github.com/QuiqueCode
 
-#IMPORTANT
+# IMPORTANT
 
 Negotiations are underway with the company to be able to upload extracts of the project code since it is a system that will potentially be used.
 
-#Images about the system
+# Images about the system
 
 ![login](https://github.com/diegoTech14/DalopcanSystem/assets/85724318/e3cdfd30-e048-4749-acad-5b672131898d)
 ![expedientes](https://github.com/diegoTech14/DalopcanSystem/assets/85724318/490620f2-c002-40c0-95e1-9e2439645551)
