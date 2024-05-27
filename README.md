@@ -1,5 +1,5 @@
 # DalopcanSystem
-This project is a file manager system for the company Dalopcan Soluciones that is dedicated to sell ortho prosthetic hearing aids and provide atention to their patients. Continues in development
+This project is a file manager system for the company Dalopcan Soluciones that is dedicated to sell ortho prosthetic hearing aids and provide atention to their patients.
 
 # About this project
 This project is part of a university requirement called TCU, which consists of supporting companies through technology. The software solution is made up of 3 parts: database, API and frontend application.
